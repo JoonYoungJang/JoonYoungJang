@@ -1,10 +1,9 @@
-### Introduce Myself
+### Education & Training
 
-Hi, I'm JoonYoungJang.
+- 2019-2023 B.S, Biotechnology, Yonesi University, Korea
+- 2022 Intern, Kyung Hee University, Korea
 
-I majored in Biotechonoloy and Life Science. (2019 - 2023)
-
-I'm currently participating in AI boot camp. (Dec, 2022 - Jun, 2023)
+I'm currently participating in AI boot camp on FastCampus. (Dec, 2022 - Jun, 2023)
 
 Also, I'm preparing to become an professtional in Bioinformatics.
 
