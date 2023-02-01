@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Let me introduce myself
+### Self Intoduction 👋
 
 Hi, I'm JoonYoungJang.
 I'm a scientist majoring in Bioinformatics.
