@@ -1,10 +1,11 @@
-### Hi there 👋
-
 ### Let me introduce myself
 
 Hi, I'm JoonYoungJang.
+
 I'm a scientist majoring in Bioinformatics.
+
 My main language is Python.
+
 I am currently participating in the AI boot camp.
 
 <!--
