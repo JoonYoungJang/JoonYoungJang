@@ -2,14 +2,18 @@
 
 Hi, I'm JoonYoungJang.
 
-I'm a scientist majoring in Bioinformatics.
+I majored in biotechnology.(2019-2023)
 
-I am currently participating in the AI boot camp.
+I'm currently participating in AI boot camp. (Dec, 2022 - Jun, 2023)
 
-### Language List
+Also, I'm preparing to become an professtional in Bioinformatics.
+
+
+### Language
 - Korean
 - English
 
+### Programming
 - Python
 - R
 - SQL
