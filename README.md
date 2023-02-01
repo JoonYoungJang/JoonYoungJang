@@ -2,7 +2,7 @@
 
 Hi, I'm JoonYoungJang.
 
-I majored in biotechnology.(2019-2023)
+I majored in biotechnology. (2019-2023)
 
 I'm currently participating in AI boot camp. (Dec, 2022 - Jun, 2023)
 
@@ -14,7 +14,7 @@ Also, I'm preparing to become an professtional in Bioinformatics.
 - English
 
 ### Programming
-- Python
+- Python (main)
 - R
 - SQL
 
