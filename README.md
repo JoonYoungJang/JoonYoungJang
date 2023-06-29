@@ -2,10 +2,9 @@
 
 - 2019-2023 B.S, Biotechnology, Yonesi University, Korea
 - 2022 Intern, Kyung Hee University, Korea
+- 2022-2023, AI boot camp on FastCampus, Korea
 
-I'm currently participating in AI boot camp on FastCampus. (Dec, 2022 - Jun, 2023)
-
-Also, I'm preparing to become an professtional in Bioinformatics.
+I'm preparing to become an professtional in Bioinformatics.
 
 
 ### Language
@@ -15,7 +14,6 @@ Also, I'm preparing to become an professtional in Bioinformatics.
 ### Programming
 - Python (main)
 - R
-- SQL
 
 <!--
 **JoonYoungJang/JoonYoungJang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
