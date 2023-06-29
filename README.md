@@ -1,9 +1,9 @@
 ### Education & Training
 
-- 2019 ~ 2023 B.S, Biotechnology, Yonesi University, Korea
-- 2022 Intern, Kyung Hee University, Korea
-- 2022 ~ 2023, AI boot camp on FastCampus
-- 2023 ~ Intern, Samsung Advanced Institute for Health Sciences & Technology, Korea
+- 2019 ~ 2023 : B.S, Biotechnology, Yonesi University, Korea
+- 2022 ~ 2022 : Intern, Kyung Hee University, Korea
+- 2022 ~ 2023 : AI boot camp on FastCampus
+- 2023 ~      : Intern, Samsung Advanced Institute for Health Sciences & Technology, Korea
 
 I'm preparing to become an professtional in Bioinformatics.
 
