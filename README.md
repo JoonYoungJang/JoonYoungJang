@@ -5,7 +5,7 @@
 - 2022 ~ 2023 : AI boot camp on FastCampus
 - 2023 ~      : Intern, Samsung Advanced Institute for Health Sciences & Technology, Korea
 
-I'm preparing to become an professtional in Bioinformatics.
+I'm preparing to become an professional in Bioinformatics.
 
 
 ### Language
